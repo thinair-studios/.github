@@ -15,4 +15,4 @@ Our first game is an isometric roguelike, built in Godot. No screenshots yet: th
 
 ### Contact
 
-hello.thinairstudios@gmail.com · [LinkedIn](https://www.linkedin.com/company/thinairstudios/) · [thinairstudios.pages.dev](https://thinairstudios.pages.dev)
+hello.thinairstudios@gmail.com · [LinkedIn](https://www.linkedin.com/company/thinairstudios/) · [Website](https://thinairstudios.hello-thinairstudios.workers.dev)
