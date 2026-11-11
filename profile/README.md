@@ -1,4 +1,4 @@
-<p align="center"><img src="thinair-logo.svg" alt="Thin Air Studios" width="200"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="thinair-logo-dark.svg"><img src="thinair-logo.svg" alt="Thin Air Studios" width="200"></picture></p>
 
 <p align="center"><b>We build software for companies, and our first game.</b><br>A two-person studio in Sarajevo.</p>
 
